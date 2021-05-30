@@ -60,7 +60,7 @@
        - 홈페이지 UI 개선
        - 주문 데이터를 활용하여 연관분석 통해 제품 추천 서비스 제공  
      * 폴더
-       - code
+       - code(https://gist.github.com/Jiseon05/274003ed2cb8cafcfd9e0728ccdcb23a)
        - ppt   
 #### 5. AI 프로젝트(차량 판독 프로젝트)
    * Aihub (https://aihub.or.kr/) db 활용
