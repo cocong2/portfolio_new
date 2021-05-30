@@ -70,7 +70,7 @@
      * Classification(EfficientNet)
      * 차량 번호판 판독(OCR)
    * 폴더
-     - code
+     - code(https://gist.github.com/cocong2/6797590e43e3d0ef395f8097bee240be)
      - ppt 
 
 </br>
