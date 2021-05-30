@@ -93,5 +93,7 @@
        - 저학력자의 재취업을 위한 일자리 마련
        - 인천지역 2030 청년 유출 방지 정책
    * 폴더
-     - code
-     - 
+     - 최종전처리 code(https://gist.github.com/cocong2/26d35575fc238dadb99593900f78cc3a)  
+     - 시각화&모델링 code(https://gist.github.com/cocong2/6cb6cfe80244239ab67df741f7506206)  
+     - 보고서  
+     
