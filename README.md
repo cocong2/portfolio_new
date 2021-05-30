@@ -19,6 +19,9 @@
 #### 1. 프로젝트 1(원티드) 
    * 원티드에서 제공한 회사 실 db 활용
    * 유니콘 기업을 찾기 위한 EDA/발표
+   * 폴더
+     - code(https://nbviewer.jupyter.org/gist/kimsk920825/cf545b595888f25a15f51661c8035e0e/%5BWeek1%3ATeam1%5DUnicon_Selection_Final_Version.ipynb)
+     - ppt
 #### 2. 프로젝트 2(모두컴퍼니)
    * 모두의 주차장에서 제공한 회사 실 db 활용
    * MSE, MAE 계산값
@@ -26,13 +29,24 @@
      * Cohort, RFM 분석
      * IT 기술지원 팀, 기획 운영팀, 마케팅팀, CS 운영팀에 Action Plan 제시
      * MSE, MAE 계산값 가지고 Action Plan 제시
+   * 폴더
+     - Marketing code(https://nbviewer.jupyter.org/gist/kimsk920825/de1cc8ed501ea1a47307d4eacde91056)
+     - Engineering code(https://nbviewer.jupyter.org/gist/rjsdl56/5c72a87684354f6b00bcdcef3e2b7acc)
+     - pdf(actionplan)
 #### 3. 프로젝트 3(클로젯셰어)
    * 클로젯 쉐어에서 제공한 회사 실 db활용
    * Step1: 잠재 고객 확보에 주력하라! (Acquisition)
    * Step2: 구매 고객으로 연결하라 (Activation)
    * Step3: 우량 고객의 파이를 늘려라 (Revenue)
    * Jumping Step: 거시적인 Action Plan 제시
-
+   * 폴더
+     - code1
+(https://nbviewer.jupyter.org/gist/kimsk920825/ca4f20fec6ee45c960593302fdcd170f/Step%201.%20%E1%84%8C%E1%85%A1%E1%86%B7%E1%84%8C%E1%85%A2%20%E1%84%80%E1%85%A9%E1%84%80%E1%85%A2%E1%86%A8%20%E1%84%92%E1%85%AA%E1%86%A8%E1%84%87%E1%85%A9%E1%84%8B%E1%85%A6%20%E1%84%8C%E1%85%AE%E1%84%85%E1%85%A7%E1%86%A8%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1%21%20%28Acquisition%29.ipynb)
+     - code2
+(https://nbviewer.jupyter.org/gist/kimsk920825/dcc2e955e94a625e1d80c4074bdd7587/Step%202.%20%E1%84%80%E1%85%AE%E1%84%86%E1%85%A2%E1%84%80%E1%85%A9%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%B3%E1%84%85%E1%85%A9%20%E1%84%8B%E1%85%A7%E1%86%AB%E1%84%80%E1%85%A7%E1%86%AF%E1%84%92%E1%85%A1%E1%84%85%E1%85%A1%21%20%28Activation%29.ipynb)
+    - code3
+(https://nbviewer.jupyter.org/gist/kimsk920825/6f87a863a3c33856fdd678c37ba7ff7d/Step%203.%20%E1%84%8B%E1%85%AE%E1%84%85%E1%85%A3%E1%86%BC%E1%84%80%E1%85%A9%E1%84%80%E1%85%A2%E1%86%A8%E1%84%8B%E1%85%B4%20%E1%84%91%E1%85%A1%E1%84%8B%E1%85%B5%E1%84%85%E1%85%B3%E1%86%AF%20%E1%84%82%E1%85%B3%E1%86%AF%E1%84%85%E1%85%A7%E1%84%85%E1%85%A1%21%20%28Revenue%29.ipynb)
+     - ppt(actionplan)
 </br>
 
 ## - 2020년 1월~6월 포스코 AI.빅데이터 아카데미 프로젝트
@@ -45,6 +59,9 @@
        - 회원 관리 및 광고 마케팅 전략 수립
        - 홈페이지 UI 개선
        - 주문 데이터를 활용하여 연관분석 통해 제품 추천 서비스 제공
+    * 폴더
+     - code
+     - ppt   
 #### 5. AI 프로젝트(차량 판독 프로젝트)
    * Aihub (https://aihub.or.kr/) db 활용
    * 저 해상도 이미지 복원을 통한 차량 판독 시스템 구현
@@ -52,6 +69,9 @@
      * Object Detection(YOLOv4)
      * Classification(EfficientNet)
      * 차량 번호판 판독(OCR)
+   * 폴더
+     - code
+     - ppt 
 
 </br>
 
@@ -72,3 +92,6 @@
        - 여성을 위한 다양한 직업 교육
        - 저학력자의 재취업을 위한 일자리 마련
        - 인천지역 2030 청년 유출 방지 정책
+   * 폴더
+     - code
+     - 
